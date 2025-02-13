@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GestorBiblioteca</string>
+    <string name="add_item">Afegir element</string>
+</resources>
